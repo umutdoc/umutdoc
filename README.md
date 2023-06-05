@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umutdoc
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning react.
+- 🌱 I’m currently learning react-router.
 - 💞️ I’m looking to collaborate on front-end development.
 
 
